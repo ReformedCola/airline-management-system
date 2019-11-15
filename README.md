@@ -14,7 +14,7 @@ In this project, we built a database system and an user friendly application usi
    * Run `java/run.sh` to execute the code from `src` with dbname, port, user. 
    * (Ex: run.sh airline_DB 5432 jasonhe)
 
-## Basic Query
+## Functionalities
 
 We wrote 9 basic query for this project:
 
